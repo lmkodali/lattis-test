@@ -22,4 +22,4 @@ This README would normally document whatever steps are necessary to get your app
 ### Running the app ###
 
 * `DEBUG=back-end-v1:* nodemon` - nodemon restarts the node server whenever code changes are detected
-* go to localhost:3100 to check server connectivity
+* go to localhost:5555 to check server connectivity
